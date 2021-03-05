@@ -1,0 +1,54 @@
+/* servicess */
+.service-heading{
+  margin-left: 211px;
+  border: 2px solid;
+  display: block;
+  width: 8%;
+}
+.services{
+  background-color: #eafcfe;
+}
+#container1{
+  margin-bottom: 0;
+}
+.service-content{
+  display: flex;
+}
+.service-content p{
+  width: 40%;
+  margin-left: 30%;
+}
+.service-content h2{
+  margin-left: 5%;
+}
+.service-btn{
+  text-align: center;
+}
+.souvik{
+  display: flex;
+}
+.souvik-text{
+  width: 45%;
+}
+.souvik-img{
+  width: 45%;
+}
+.footer{
+  display: flex;
+}
+.footer2{
+  margin-left: 60%;
+}
+#facebook{
+  color: #ffffff;
+  text-decoration: none;
+}
+.card-body{
+  background-color: #090a40;
+}
+h5{
+  color: #d4fcec;
+}
+.card-text{
+  color: #f0fcf7;
+}
